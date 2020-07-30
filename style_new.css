@@ -1,0 +1,44 @@
+#main {
+    text-align: center;
+}
+
+#img-div {
+    padding: 10px;
+    margin: 10px;
+}
+
+#image {
+    max-width: 1024px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#img-caption {
+    margin: 10px;
+}
+
+.h2 {
+    font-size: 24px;
+}
+
+#title {
+    font-size: 40px;
+}
+
+#tribute-info {
+    width: 650px;
+    display: inline-block;
+    margin: auto;
+    padding: 10px;
+    background-color: #eeeeee;
+    text-align: left;
+}
+
+#tribute-link {
+}
+
+
+
+
